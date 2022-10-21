@@ -1,0 +1,154 @@
+.imgCard {
+   
+   /* width: 100%;
+    height: 100%;*/
+    
+    width: auto;
+    height: auto;
+    
+}
+.colorVerde{
+    color: #2B9E44 !important;
+}
+
+nav {
+    
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:#353A40 !important;
+    flex-direction: justify-content;
+
+}
+
+#carousel{
+    position:relative;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    
+   
+    
+}
+
+#texto-en-carousel{
+    text-align: right;
+    position: absolute;
+    
+    
+    padding-top: auto;
+    padding-bottom: auto;
+    
+    margin-top: -275px;
+    color:white;
+    filter: contrast(180%);
+    
+    
+}
+
+
+#carouselExampleSlidesOnly{
+    position: static;
+    padding-top: auto;
+    padding-bottom: auto;
+}
+/*para achicar el carousel*/
+.carousel-inner img {
+    width: 100%;
+    max-height: 540px;
+    filter: brightness(40%);
+    
+    
+}
+
+.carousel-inner{
+ max-height: 540px;
+ 
+}
+
+ 
+
+#titulo {
+    text-align:center;
+    align-items: center;
+}
+
+#tituloOradores {
+    text-align:center;
+    align-items: center;
+    
+}
+
+#contenido {
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+
+
+#lugar {
+    display:flex;
+    align-items: justify-content;
+    background-color:#353A40;
+    
+}
+
+#lugar-texto{
+    background-color:#353A40;
+    color:white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+#img-lugar{
+    margin: 0%;
+    padding: 0;
+}
+
+#contenido-form {
+    
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+u.dotted{
+   
+    text-decoration:underline dotted; 
+    color: black;
+  }
+.colorGris{
+    color:rgb(130, 129, 133);
+}
+
+.colorBtnEnviar {
+    background-color:#96C93E;
+}
+.BtnComprarTickets{
+    background-color:#19a051; }
+   
+footer {
+    
+   
+    color: white;
+    width:auto; 
+    background-image: linear-gradient(120deg, #283a45 50%, rgb(22, 82, 119)  100%);
+  
+
+}
+
+
+.botones {
+    font: bold !important ;
+
+}
+
+.btn {
+    bottom: font-weight-bold;
+}
+
+
+
